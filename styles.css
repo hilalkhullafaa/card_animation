@@ -4,6 +4,9 @@
   box-sizing: border-box;
 }
 
+body {
+}
+
 /*
 =====> Container Section <===== 
  */
@@ -17,6 +20,7 @@
   grid-template-columns: repeat(auto-fill, minmax(300px, 350px));
   grid-gap: 40px;
   font-family: "Poppins", sans-serif;
+  margin: auto;
 }
 
 /*
